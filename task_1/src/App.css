@@ -1,0 +1,28 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.App .MuiSelect-root {
+  width: 15rem;
+}
+
+.national-currency {
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.national-currency h1 {
+  margin-right: 1rem;
+}
+
+.national-currency div {
+  text-align: start;
+}
